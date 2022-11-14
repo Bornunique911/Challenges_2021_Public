@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster AS base
+FROM python:3.12-rc-slim AS base
 
 FROM base AS build
 
