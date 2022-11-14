@@ -17,7 +17,7 @@
         "@types/koa-static": "^4.0.2",
         "@types/node": "^16.7.1",
         "@types/pg": "^8.6.1",
-        "apollo-server-core": "^3.3.0",
+        "apollo-server-core": "^3.11.0",
         "apollo-server-koa": "^3.3.0",
         "argon2": "^0.28.2",
         "graphql": "^15.5.1",
